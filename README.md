@@ -34,8 +34,10 @@ assuming you are in terminal navigated to the folder that you set up for this po
 
 *clone the project:*
 git clone https://github.com/phillipbligh/ZeroMQ-Example.git
+
 *install the node modules*
 npm install
+
 *install ZeroMQ for python
 pip install zmq
 
